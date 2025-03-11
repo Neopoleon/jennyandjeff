@@ -5,7 +5,7 @@ publishDate: "10 March 2025"
 tags: ["literature", "Pai Hsien-yung"]
 updatedDate: 10 March 2025
 ---
-First Written as a Literary Analysis on 《游园惊梦》 in High School (2020);《台北人》互文性研究 —— 写于2020年秋，上海
+**《台北人》互文性研究 —— 写于2020年秋，上海**
 
 ## Who is **Pai Hsien-yung** (per wikipedia)?
 Hsien-yung Pai[^1] (Chinese: 白先勇; born July 11, 1937) is a Chinese writer based in Taiwan who has been described as a "melancholy pioneer". He was born in Guilin, Guangxi at the cusp of the Second Sino-Japanese War. Pai's father was the Kuomintang (KMT) general Bai Chongxi (Pai Chung-hsi), whom he later described as a "stern, Confucian father" with "some soft spots in his heart." Pai was diagnosed with tuberculosis at the age of seven, during which time he would have to live in a separate house from his siblings (of which he would have a total of nine). He lived with his family in Chongqing, Shanghai, and Nanjing before moving to the British-controlled Hong Kong in 1948 as CPC forces turned the tide of the Chinese Civil War. In 1952, Pai and his family resettled in Taiwan, where the KMT had relocated the Republic of China after defeat by the Communists in 1949.
