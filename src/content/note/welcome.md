@@ -1,9 +1,10 @@
 ---
-title: Hello, Welcome
-description: An introduction to using the note feature in Astro Cactus
-publishDate: "2024-10-14T11:23:00Z"
+title: Hey, Jenny...
+description: Just came back from Durand...Don't feel like working today. So...I decided to build a blog website for us right away!
+publishDate: "2025-03-10T121:10:00Z"
 ---
 
-Hi, Hello. This is an example note feature included with Astro Cactus.
 
-They're for shorter, concise "post's" that you'd like to share, they generally don't include headings, but hey, that's entirely up to you.
+This is just the first version of our website, and I’ll keep making it even cuter over time! But this part’s on me. 💖
+
+Nowww, I think it’s time for you to start thinking about what you wanna write for our very first blog! 😉✨

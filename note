@@ -1,0 +1,3 @@
+Editing content in src/content/post/ or src/content/note/
+Updating site styles in src/styles/global.css
+Customizing settings in src/site.config.ts and astro.config.ts
