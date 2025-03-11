@@ -8,7 +8,7 @@ import PageLayout from "@/layouts/Base.astro";
 import { collectionDateSort } from "@/utils/date";
 
 // Posts
-const MAX_POSTS = 10;
+const MAX_POSTS = 100;
 const allPosts = await getAllPosts();
 const allPostsByDate = allPosts
 	.sort(collectionDateSort)
@@ -22,11 +22,11 @@ const latestNotes = allNotes.sort(collectionDateSort).slice(0, MAX_NOTES);
 
 <PageLayout meta={{ title: "Home" }}>
 	<section>
-		<h1 class="title mb-6">Hello World!</h1>
+		<h1 class="title mb-6">Hey there!</h1>
 		<p class="mb-4">
-			Hi, I’m a theme for Astro, a simple starter that you can use to create your website or blog.
-			If you want to know more about how you can customise me, add more posts, and make it your own,
-			click on the GitHub icon link below and it will take you to my repo.
+			Welcome to our little corner of the internet—where Jenny and Jeff document their chaotic, wonderful college life at Stanford. Jenny’s a freshman who thinks she’s gonna major in International Relations and Bioengineering (we’ll see about that 😈), and Jeff’s a junior deep in the trenches of Computer Science 😭. Jenny’s all about books 📖 and binge-watching K-dramas, and this summer, she’s off to Geneva to intern at the United Nations—fancy, right 😎? Meanwhile, Jeff’s the certified nerd of the duo, geeking out over AI, Computational Bio, and Robotics like it’s a personality trait.
+
+			We drop random thoughts here whenever we feel like screaming into the void—not as "L'Étranger", but as two very opinionated, very online people trying to make sense of the world. 🌏
 		</p>
 		<SocialList />
 	</section>
